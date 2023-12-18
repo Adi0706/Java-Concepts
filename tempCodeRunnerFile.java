@@ -1,0 +1,1 @@
+nteger_variable
